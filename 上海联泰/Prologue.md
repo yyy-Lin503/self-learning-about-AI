@@ -75,14 +75,16 @@
 
 这是用户上传的2D图片：
 
-<img src="assets/user-upload-2d.png" alt="用户上传的2D图片" width="100%" />
+<img width="1024" height="768" alt="user-upload-2d" src="https://github.com/user-attachments/assets/3b2ec3b1-5cac-460a-be79-c4dcc239ee4d" />
+
 
 </td>
 <td align="center" width="50%">
 
 这是AI生成的3D图片：
 
-<img src="assets/user-upload-3d.jpg" alt="用户上传的3D图片" width="100%" />
+<img width="1024" height="768" alt="user-upload-3d" src="https://github.com/user-attachments/assets/001d02cd-9cb4-4cb1-b4a6-b32e7467baaa" />
+
 
 </td>
 </tr>
