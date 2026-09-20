@@ -13,7 +13,8 @@
 ### LLM的工作流程
 
 <p align="center">
-  <img src="assets/llm-sci-framework-en.png" alt="Large Language Model / Inference Architecture" width="90%" />
+ <img width="864" height="1152" alt="llm-principle-flowchart" src="https://github.com/user-attachments/assets/bb62a379-9974-40e3-9d2f-d30c087e799a" />
+
 </p>
 
 由图可以看到，它的输出是有概率性的，因此，它面对同一个问题，会输出不一样的答案。这与传统的ai不同，传统的AI通常是写死的程序。同时，这出现了一个明显的局限性，它可能会一本正经地编造内容，听起来像真的一样。
