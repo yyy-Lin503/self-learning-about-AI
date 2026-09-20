@@ -100,7 +100,8 @@ Token：切成模型认识的碎片。
 
 总公式：
 
-![Attention(Q, K, V) = softmax(QK^T / sqrt(d_k)) V](assets/attention-formula.png)
+<img width="729" height="127" alt="attention-formula" src="https://github.com/user-attachments/assets/4a10a480-65d8-48bb-a746-b7e3310ad15b" />
+
 
 1、点积得分数
 
