@@ -4,7 +4,8 @@
 
 一、输入lscpi
 
-![Uploading image.png…]()
+
+<img width="1923" height="273" alt="image" src="https://github.com/user-attachments/assets/8ed36051-104c-49d6-aaef-0737744254e2" />
 
 
 
