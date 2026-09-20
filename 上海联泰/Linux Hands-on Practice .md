@@ -23,8 +23,8 @@
 2. GPU 不会出现在这份名单里。 第 1 步内核已经写了 `tegra`：GPU 和 ARM CPU 焊在同一颗 SoC 上，不走 PCIe 插槽。`lspci` 只能看见「插在 PCI 上的东西」，看不见焊在芯片内部的 GPU。
 
 二、输入nvidia-smi
+<img width="1475" height="696" alt="e3cb7845c29d0f8e2779db8813478d10" src="https://github.com/user-attachments/assets/eaa01895-803f-4f95-b1d7-734bda3a8c97" />
 
-![nvidia-smi](assets/nvidia-smi.png)
 
 
 | **单元**  | **结论**                                            |
