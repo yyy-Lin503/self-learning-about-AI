@@ -34,7 +34,8 @@ RNN破不了局的原因：
 Transformer：  
 利用核心的部件self-attention来找不同词之间的关系，不用一个一个地排队，让每个词直接问所有词「谁跟我有关」，这就是注意力。
 
-![Transformer model](assets/transformer-model.png)
+<img width="695" height="1024" alt="transformer-model" src="https://github.com/user-attachments/assets/90dbfe0c-15b4-4dc0-a2b2-e7b2b10b6cf5" />
+
 
 **Transformer model**
 
