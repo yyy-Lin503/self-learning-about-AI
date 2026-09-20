@@ -1,4 +1,4 @@
-# 1.2 从零理解 Transformer
+# 1.2  Understanding Transformer from Scratch
 
 ---
 
