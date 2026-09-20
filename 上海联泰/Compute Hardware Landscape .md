@@ -1,4 +1,4 @@
-# 1.3 算力硬件全景：GPU / CPU / NPU / DPU
+# 1.3 Compute Hardware Landscape：GPU / CPU / NPU / DPU
 
 ---
 
