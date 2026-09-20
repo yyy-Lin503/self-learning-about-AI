@@ -4,7 +4,8 @@
 
 一、输入lscpi
 
-![lspci](assets/lspci.png)
+![Uploading image.png…]()
+
 
 
 | **地址**         | **系统报的名字**                        | **它是什么**                       |
